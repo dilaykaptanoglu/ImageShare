@@ -1,0 +1,87 @@
+{
+    "imageshare": {
+        "awscloudformation": {
+            "AuthRoleName": "imageshare-imageshare-20190512232945-authRole",
+            "UnauthRoleArn": "arn:aws:iam::537108358818:role/imageshare-imageshare-20190512232945-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::537108358818:role/imageshare-imageshare-20190512232945-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "imageshare-imageshare-20190512232945-deployment",
+            "UnauthRoleName": "imageshare-imageshare-20190512232945-unauthRole",
+            "StackName": "imageshare-imageshare-20190512232945",
+            "StackId": "arn:aws:cloudformation:us-east-1:537108358818:stack/imageshare-imageshare-20190512232945/b0759950-74f4-11e9-a278-12d99c723360"
+        },
+        "categories": {
+            "auth": {
+                "cognitod49f88db": {}
+            }
+        }
+    },
+    "imgshrdly": {
+        "awscloudformation": {
+            "AuthRoleName": "imageshare-imgshrdly-20190513155957-authRole",
+            "UnauthRoleArn": "arn:aws:iam::532815017647:role/imageshare-imgshrdly-20190513155957-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::532815017647:role/imageshare-imgshrdly-20190513155957-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "imageshare-imgshrdly-20190513155957-deployment",
+            "UnauthRoleName": "imageshare-imgshrdly-20190513155957-unauthRole",
+            "StackName": "imageshare-imgshrdly-20190513155957",
+            "StackId": "arn:aws:cloudformation:us-east-1:532815017647:stack/imageshare-imgshrdly-20190513155957/04bf40d0-757f-11e9-be64-0a009cdf2216"
+        },
+        "categories": {
+            "auth": {
+                "cognitod49f88db": {}
+            }
+        }
+    },
+    "yeni": {
+        "awscloudformation": {
+            "AuthRoleName": "imageshare-yeni-20190513165042-authRole",
+            "UnauthRoleArn": "arn:aws:iam::532815017647:role/imageshare-yeni-20190513165042-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::532815017647:role/imageshare-yeni-20190513165042-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "imageshare-yeni-20190513165042-deployment",
+            "UnauthRoleName": "imageshare-yeni-20190513165042-unauthRole",
+            "StackName": "imageshare-yeni-20190513165042",
+            "StackId": "arn:aws:cloudformation:us-east-1:532815017647:stack/imageshare-yeni-20190513165042/1b5eb5d0-7586-11e9-97bb-0e92b042adf6"
+        },
+        "categories": {
+            "auth": {
+                "cognitod49f88db": {}
+            }
+        }
+    },
+    "asdasd": {
+        "awscloudformation": {
+            "AuthRoleName": "imageshare-asdasd-20190513165855-authRole",
+            "UnauthRoleArn": "arn:aws:iam::532815017647:role/imageshare-asdasd-20190513165855-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::532815017647:role/imageshare-asdasd-20190513165855-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "imageshare-asdasd-20190513165855-deployment",
+            "UnauthRoleName": "imageshare-asdasd-20190513165855-unauthRole",
+            "StackName": "imageshare-asdasd-20190513165855",
+            "StackId": "arn:aws:cloudformation:us-east-1:532815017647:stack/imageshare-asdasd-20190513165855/40f6ed70-7587-11e9-a426-0ec11b444504"
+        },
+        "categories": {
+            "auth": {
+                "cognitod49f88db": {}
+            }
+        }
+    },
+    "yepyeni": {
+        "awscloudformation": {
+            "AuthRoleName": "imageshare-yepyeni-20190513172047-authRole",
+            "UnauthRoleArn": "arn:aws:iam::363652938561:role/imageshare-yepyeni-20190513172047-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::363652938561:role/imageshare-yepyeni-20190513172047-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "imageshare-yepyeni-20190513172047-deployment",
+            "UnauthRoleName": "imageshare-yepyeni-20190513172047-unauthRole",
+            "StackName": "imageshare-yepyeni-20190513172047",
+            "StackId": "arn:aws:cloudformation:us-east-1:363652938561:stack/imageshare-yepyeni-20190513172047/4f853f60-758a-11e9-9531-0a129e2750f4"
+        },
+        "categories": {
+            "auth": {
+                "cognitod49f88db": {}
+            }
+        }
+    }
+}
